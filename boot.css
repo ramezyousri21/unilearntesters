@@ -1,0 +1,50 @@
+.hero{
+    height: 100vh;
+    width: 100%;
+    background-color: #0882DA;
+
+}
+.aboutus{
+    padding:20px;
+    margin: 30px;
+    height: 500px;
+    color:#040347;
+    height: 100%;
+}
+.betanormal{
+    height: 100%;
+    color:#040347;
+    font-size: 10px;
+}
+.aftersub{
+    display: none;
+    height: 100%; background: linear-gradient(0deg ,#040347  , #0882DA);
+}
+ul{
+    list-style: none;
+}
+ul li{
+    padding: 10px;
+}
+hr{
+    background-color: #0882DA;
+}
+.t{
+    height: 100%;
+}
+.btn-primary{
+    background-color: #040347;
+}
+.btn-primary:hover{
+    background-color: #040347;
+}
+input{
+    color:#040347;
+    border-bottom: #0882DA solid 1px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+input:focus{
+    outline: none;
+}
